@@ -1,4 +1,4 @@
-# Pong AI with Unity's ML-Agents Package
+# Simple Pong AI with Unity's ML-Agents Package
 ## Description
 I used this simple project to gain confidence in the ML-Agents package. In the default scene, the green player is controlled by the user, while the red one by the AI.
 To make a mirror match AI vs AI, it is sufficient to restore the Behavior Type inside the *Behavior Parameters* to its default setting.
